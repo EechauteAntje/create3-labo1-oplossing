@@ -852,6 +852,7 @@ input::placeholder {
 
 .c-custom-toggle--inverted .c-custom-toggle__fake-input {
   margin-right: 0;
+  margin-left: 180px;
 }
 
 .c-custom-toggle__fake-input::after {
